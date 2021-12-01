@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.constructweekproject.Assure.AssureApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.286 s - in com.constructweekproject.Assure.AssureApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.115 s - in com.constructweekproject.Assure.AssureApplicationTests
