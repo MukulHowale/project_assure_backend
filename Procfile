@@ -1,1 +1,0 @@
-web: java "\src\main\java\com\constructweekproject\Assure\AssureApplication.java"
